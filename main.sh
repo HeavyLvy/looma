@@ -1,4 +1,2 @@
 #!/bin/bash
-name="Bob"
-greeting="Hello $name!"
-echo $greeting
+echo "Welcome to the Looma installer"
