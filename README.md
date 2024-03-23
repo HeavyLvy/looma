@@ -1,3 +1,3 @@
 ```sh
-curl -s https://raw.githubusercontent.com/HeavyLvy/looma/master/main.sh | bash
+curl -Hs https://raw.githubusercontent.com/HeavyLvy/looma/master/main.sh | bash
 ```
