@@ -2,10 +2,10 @@
 echo "Welcome to the Looma installer 🦙"
 
 echo "Would you like to install required dependencies: [Y/n]"
-read InstallDependencies
+read ttt
 
 # Convert input to uppercase for easier comparison
-InstallDependencies="${InstallDependencies^^}"
+InstallDependencies="${ttt^^}"
 
 if [ "$InstallDependencies" = "Y" ]; then
     echo "Installing dependencies..."
